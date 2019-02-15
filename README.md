@@ -12,7 +12,7 @@ This project only support CUDA 9.0+. If you are using cuda 8.0, please update it
 
 0. Use ```git clone xxx.git --recursive``` to clone this repo.
 
-1. Install boost headers to your system include path, you can use either ```sudo apt-get install libboostall-dev``` or download compressed files from boost official website and copy headers to include path.
+1. Install boost headers to your system include path, you can use either ```sudo apt-get install libboost-all-dev``` or download compressed files from boost official website and copy headers to include path.
 
 2. Download cmake >= 3.13.2, then add cmake executables to PATH.
 
